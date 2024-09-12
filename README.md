@@ -9,7 +9,7 @@ A minimalist landing page for a banking website. Built while learning JavaScript
 
 ## 🚀 Live Demo
 
-Check out the live demo here: [Live Demo](https://your-live-demo-link.com)
+Check out the live demo here: [Live Demo](https://vasanthrs-dev.github.io/Bankist/)
 
 ## 📚 Technologies Used
 
